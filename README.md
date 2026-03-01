@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Madhumitha
 
-<!--
-**madhu357programmer/madhu357programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student (Final Year Soon)
+💻 DSA Enthusiast & Problem Solver  
+🌱 Currently improving in Data Structures & Algorithms  
+🚀 Interested in Full Stack Development & Creative Technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- 💻 Languages: C, C++, Java, Python
+- 🌐 Frontend: HTML, CSS, JavaScript
+- 🔧 Tools: Git, GitHub
+- 🗄️ Database: MySQL 
+
+---
+
+## 📌 Current Goals
+- Solve 300+ DSA problems
+- Build 5 strong projects
+- Prepare for placements
+
+---
+
+## 📫 Connect With Me
+Chennai, India
