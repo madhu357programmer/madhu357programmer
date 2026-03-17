@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="" width="100%" />
+</p>
 # Hi 👋 I'm Madhumitha
 
 🎓 IT Student (Final Year Soon)
